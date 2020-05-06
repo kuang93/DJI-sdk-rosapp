@@ -1,4 +1,4 @@
-# DJI-sdk-rosapp
+# DJI-osdk-rosapp
 
 There are two ros_node for control DJI_M210_RTK with keyboard.  
 I've tested the code with Onboard-SDK-ROS-3.8  
