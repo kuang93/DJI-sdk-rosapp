@@ -2,7 +2,7 @@
 
 There are two ros_node for control DJI_M210_RTK with keyboard.
 I've tested the code with Onboard-SDK-ROS-3.8
-"\uparrow" ： go up
+&uarr  "\uparrow" ： go up
 "\downarrow" : go down
 "w"  :  forward
 "s"  :  backward
